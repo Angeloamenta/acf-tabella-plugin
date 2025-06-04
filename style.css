@@ -1,0 +1,42 @@
+.acf-table-wrapper {
+  overflow-x: auto;
+}
+
+.acf-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  color: #3a2d25;
+  background: transparent;
+}
+
+.acf-table caption {
+  caption-side: top;
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.acf-table thead th {
+  color: #009045;
+  text-align: left;
+  font-weight: 600;
+  padding: 0.75em;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.acf-table td {
+  padding: 0.75em;
+  border-bottom: 1px solid #e0e0e0;
+  vertical-align: top;
+}
+
+@media (max-width: 768px) {
+  .acf-table {
+    font-size: 0.9em;
+  }
+
+  .acf-table caption {
+    font-size: 1em;
+  }
+}
