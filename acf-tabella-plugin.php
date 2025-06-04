@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ACF Tabella Shortcode
  * Description: Crea uno shortcode [acf_tabella] che mostra una tabella ACF stilizzata. usare "tab" come slug
- * Version: 1.1
+ * Version: 1.4
  * Author: Angelo
  */
 
